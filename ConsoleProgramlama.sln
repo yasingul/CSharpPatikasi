@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degisken", "..\Degisken\Deg
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatorler", "..\Operatorler\Operatorler.csproj", "{C04A5034-ECC1-44A1-BB2E-31103B72745D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "..\TipDonusumleri\TipDonusumleri.csproj", "{61EBBEDD-0827-4515-AC47-0E4CE4BFA834}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipDonusumleri", "..\TipDonusumleri\TipDonusumleri.csproj", "{61EBBEDD-0827-4515-AC47-0E4CE4BFA834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "..\HataYonetimi\HataYonetimi.csproj", "{B01A87FD-E3CF-4B8E-AF66-DCC4090B65A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{61EBBEDD-0827-4515-AC47-0E4CE4BFA834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61EBBEDD-0827-4515-AC47-0E4CE4BFA834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61EBBEDD-0827-4515-AC47-0E4CE4BFA834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B01A87FD-E3CF-4B8E-AF66-DCC4090B65A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01A87FD-E3CF-4B8E-AF66-DCC4090B65A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01A87FD-E3CF-4B8E-AF66-DCC4090B65A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01A87FD-E3CF-4B8E-AF66-DCC4090B65A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
