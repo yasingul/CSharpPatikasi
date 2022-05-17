@@ -6,7 +6,6 @@ namespace ConsoleProgramlama
     {
         public static void Main(string[] args)
         {
-            
         }
     }
 }
