@@ -5,29 +5,31 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleProgramlama", "ConsoleProgramlama.csproj", "{487B8E2E-0316-43B5-B80F-54D72FAB9D5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "..\Arrays\Arrays.csproj", "{20120FA0-0AD3-401C-84C2-72D16750ADDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "..\Arrays\Arrays.csproj", "{20120FA0-0AD3-401C-84C2-72D16750ADDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "..\Degiskenler\Degiskenler.csproj", "{E824BE1A-5C90-456E-AE8B-35FAABA54180}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degiskenler", "..\Degiskenler\Degiskenler.csproj", "{E824BE1A-5C90-456E-AE8B-35FAABA54180}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "..\Diziler\Diziler.csproj", "{6D2F42B6-09C3-4F14-9F26-B899EB7FF39D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler", "..\Diziler\Diziler.csproj", "{6D2F42B6-09C3-4F14-9F26-B899EB7FF39D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "..\ForLoop\ForLoop.csproj", "{17D6ACF4-6E4F-4A65-B377-ACA6C4C15CBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoop", "..\ForLoop\ForLoop.csproj", "{17D6ACF4-6E4F-4A65-B377-ACA6C4C15CBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimiPatika", "..\HataYonetimiPatika\HataYonetimiPatika.csproj", "{B4ECE8E8-8951-4F5E-9F72-E9B197CEA367}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HataYonetimiPatika", "..\HataYonetimiPatika\HataYonetimiPatika.csproj", "{B4ECE8E8-8951-4F5E-9F72-E9B197CEA367}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElsePatika", "..\IfElsePatika\IfElsePatika.csproj", "{50EF9DB8-1D5B-45B1-A09E-223AB57E34C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfElsePatika", "..\IfElsePatika\IfElsePatika.csproj", "{50EF9DB8-1D5B-45B1-A09E-223AB57E34C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetotlarPatika", "..\MetotlarPatika\MetotlarPatika.csproj", "{630032EE-D664-42E1-A4E9-047C09911B4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetotlarPatika", "..\MetotlarPatika\MetotlarPatika.csproj", "{630032EE-D664-42E1-A4E9-047C09911B4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "..\Operators\Operators.csproj", "{A83CC8F2-20F1-486B-8281-59751A3569D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "..\Operators\Operators.csproj", "{A83CC8F2-20F1-486B-8281-59751A3569D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "..\SwitchCase\SwitchCase.csproj", "{06273C93-56BD-481A-8C41-322419075964}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "..\SwitchCase\SwitchCase.csproj", "{06273C93-56BD-481A-8C41-322419075964}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "..\TipDonusumleri\TipDonusumleri.csproj", "{8A6A9C60-87A7-4EF6-A1B7-A84CFDDCE606}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipDonusumleri", "..\TipDonusumleri\TipDonusumleri.csproj", "{8A6A9C60-87A7-4EF6-A1B7-A84CFDDCE606}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileForeachPatika", "..\WhileForeachPatika\WhileForeachPatika.csproj", "{54D01044-87FD-4A1B-9307-8641F9459A7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileForeachPatika", "..\WhileForeachPatika\WhileForeachPatika.csproj", "{54D01044-87FD-4A1B-9307-8641F9459A7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetotOverloading", "..\MetotOverloading\MetotOverloading.csproj", "{1602F43B-CD72-4860-B992-37DB4D9BF3AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetotOverloading", "..\MetotOverloading\MetotOverloading.csproj", "{1602F43B-CD72-4860-B992-37DB4D9BF3AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveExtensionMetotsPatika", "..\RecursiveExtensionMetotsPatika\RecursiveExtensionMetotsPatika.csproj", "{27BD9203-CDE3-4E9B-AC11-19BDCA2C2C40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{1602F43B-CD72-4860-B992-37DB4D9BF3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1602F43B-CD72-4860-B992-37DB4D9BF3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1602F43B-CD72-4860-B992-37DB4D9BF3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27BD9203-CDE3-4E9B-AC11-19BDCA2C2C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BD9203-CDE3-4E9B-AC11-19BDCA2C2C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BD9203-CDE3-4E9B-AC11-19BDCA2C2C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BD9203-CDE3-4E9B-AC11-19BDCA2C2C40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
