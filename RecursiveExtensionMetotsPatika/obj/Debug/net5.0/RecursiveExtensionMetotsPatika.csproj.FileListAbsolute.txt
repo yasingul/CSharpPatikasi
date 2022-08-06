@@ -1,0 +1,16 @@
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\bin\Debug\net5.0\RecursiveExtensionMetotsPatika.exe
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\bin\Debug\net5.0\RecursiveExtensionMetotsPatika.deps.json
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\bin\Debug\net5.0\RecursiveExtensionMetotsPatika.runtimeconfig.json
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\bin\Debug\net5.0\RecursiveExtensionMetotsPatika.runtimeconfig.dev.json
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\bin\Debug\net5.0\RecursiveExtensionMetotsPatika.dll
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\bin\Debug\net5.0\RecursiveExtensionMetotsPatika.pdb
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\obj\Debug\net5.0\RecursiveExtensionMetotsPatika.csproj.AssemblyReference.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\obj\Debug\net5.0\RecursiveExtensionMetotsPatika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\obj\Debug\net5.0\RecursiveExtensionMetotsPatika.AssemblyInfoInputs.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\obj\Debug\net5.0\RecursiveExtensionMetotsPatika.AssemblyInfo.cs
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\obj\Debug\net5.0\RecursiveExtensionMetotsPatika.csproj.CoreCompileInputs.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\obj\Debug\net5.0\RecursiveExtensionMetotsPatika.dll
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\obj\Debug\net5.0\refint\RecursiveExtensionMetotsPatika.dll
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\obj\Debug\net5.0\RecursiveExtensionMetotsPatika.pdb
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\obj\Debug\net5.0\RecursiveExtensionMetotsPatika.genruntimeconfig.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\RecursiveExtensionMetotsPatika\obj\Debug\net5.0\ref\RecursiveExtensionMetotsPatika.dll
