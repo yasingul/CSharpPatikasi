@@ -31,7 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetotOverloading", "..\Meto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveExtensionMetotsPatika", "..\RecursiveExtensionMetotsPatika\RecursiveExtensionMetotsPatika.csproj", "{27BD9203-CDE3-4E9B-AC11-19BDCA2C2C40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev1", "..\Odev1\Odev1.csproj", "{29B90600-3F3B-4059-BE66-BFFF8AF24677}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev1", "..\Odev1\Odev1.csproj", "{29B90600-3F3B-4059-BE66-BFFF8AF24677}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringHazirMetotlar", "..\StringHazirMetotlar\StringHazirMetotlar.csproj", "{9E108125-C8D4-4E85-B557-162AA36A8F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateMathHazırMetotlar", "..\DateMathHazırMetotlar\DateMathHazırMetotlar.csproj", "{CEBE541D-EB6F-452D-A921-29ECC3CD7C98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{29B90600-3F3B-4059-BE66-BFFF8AF24677}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29B90600-3F3B-4059-BE66-BFFF8AF24677}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29B90600-3F3B-4059-BE66-BFFF8AF24677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E108125-C8D4-4E85-B557-162AA36A8F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E108125-C8D4-4E85-B557-162AA36A8F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E108125-C8D4-4E85-B557-162AA36A8F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E108125-C8D4-4E85-B557-162AA36A8F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEBE541D-EB6F-452D-A921-29ECC3CD7C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBE541D-EB6F-452D-A921-29ECC3CD7C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBE541D-EB6F-452D-A921-29ECC3CD7C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBE541D-EB6F-452D-A921-29ECC3CD7C98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
