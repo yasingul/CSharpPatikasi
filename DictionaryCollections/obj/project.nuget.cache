@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QQ8H4kM/sHWcs+J80C9MFQKJqOTuv29Aw19zlwR5OR0mSCShLKM8vLZPdQoAsw8o0ISKoxWKgmyQCLx35Lew9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YASİN\\Desktop\\Yazılım\\PatikaDev\\csharpPatika\\console-programlama\\DictionaryCollections\\DictionaryCollections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YASİN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\YASİN\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\YASİN\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\YASİN\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
