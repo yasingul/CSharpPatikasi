@@ -1,0 +1,16 @@
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\bin\Debug\net5.0\AlgorithmQuestionsCollections1.exe
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\bin\Debug\net5.0\AlgorithmQuestionsCollections1.deps.json
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\bin\Debug\net5.0\AlgorithmQuestionsCollections1.runtimeconfig.json
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\bin\Debug\net5.0\AlgorithmQuestionsCollections1.runtimeconfig.dev.json
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\bin\Debug\net5.0\AlgorithmQuestionsCollections1.dll
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\bin\Debug\net5.0\AlgorithmQuestionsCollections1.pdb
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\obj\Debug\net5.0\AlgorithmQuestionsCollections1.csproj.AssemblyReference.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\obj\Debug\net5.0\AlgorithmQuestionsCollections1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\obj\Debug\net5.0\AlgorithmQuestionsCollections1.AssemblyInfoInputs.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\obj\Debug\net5.0\AlgorithmQuestionsCollections1.AssemblyInfo.cs
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\obj\Debug\net5.0\AlgorithmQuestionsCollections1.csproj.CoreCompileInputs.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\obj\Debug\net5.0\AlgorithmQuestionsCollections1.dll
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\obj\Debug\net5.0\refint\AlgorithmQuestionsCollections1.dll
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\obj\Debug\net5.0\AlgorithmQuestionsCollections1.pdb
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\obj\Debug\net5.0\AlgorithmQuestionsCollections1.genruntimeconfig.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\AlgorithmQuestionsCollections1\obj\Debug\net5.0\ref\AlgorithmQuestionsCollections1.dll
