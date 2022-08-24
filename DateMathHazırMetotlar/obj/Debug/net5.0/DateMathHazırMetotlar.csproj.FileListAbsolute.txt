@@ -1,0 +1,16 @@
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\bin\Debug\net5.0\DateMathHazırMetotlar.exe
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\bin\Debug\net5.0\DateMathHazırMetotlar.deps.json
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\bin\Debug\net5.0\DateMathHazırMetotlar.runtimeconfig.json
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\bin\Debug\net5.0\DateMathHazırMetotlar.runtimeconfig.dev.json
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\bin\Debug\net5.0\DateMathHazırMetotlar.dll
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\bin\Debug\net5.0\DateMathHazırMetotlar.pdb
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\obj\Debug\net5.0\DateMathHazırMetotlar.csproj.AssemblyReference.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\obj\Debug\net5.0\DateMathHazırMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\obj\Debug\net5.0\DateMathHazırMetotlar.AssemblyInfoInputs.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\obj\Debug\net5.0\DateMathHazırMetotlar.AssemblyInfo.cs
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\obj\Debug\net5.0\DateMathHazırMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\obj\Debug\net5.0\DateMathHazırMetotlar.dll
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\obj\Debug\net5.0\refint\DateMathHazırMetotlar.dll
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\obj\Debug\net5.0\DateMathHazırMetotlar.pdb
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\obj\Debug\net5.0\DateMathHazırMetotlar.genruntimeconfig.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\DateMathHazırMetotlar\obj\Debug\net5.0\ref\DateMathHazırMetotlar.dll
