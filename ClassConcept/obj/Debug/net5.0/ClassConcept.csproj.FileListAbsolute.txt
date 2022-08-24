@@ -1,0 +1,16 @@
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\bin\Debug\net5.0\ClassConcept.exe
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\bin\Debug\net5.0\ClassConcept.deps.json
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\bin\Debug\net5.0\ClassConcept.runtimeconfig.json
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\bin\Debug\net5.0\ClassConcept.runtimeconfig.dev.json
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\bin\Debug\net5.0\ClassConcept.dll
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\bin\Debug\net5.0\ClassConcept.pdb
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\obj\Debug\net5.0\ClassConcept.csproj.AssemblyReference.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\obj\Debug\net5.0\ClassConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\obj\Debug\net5.0\ClassConcept.AssemblyInfoInputs.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\obj\Debug\net5.0\ClassConcept.AssemblyInfo.cs
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\obj\Debug\net5.0\ClassConcept.csproj.CoreCompileInputs.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\obj\Debug\net5.0\ClassConcept.dll
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\obj\Debug\net5.0\refint\ClassConcept.dll
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\obj\Debug\net5.0\ClassConcept.pdb
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\obj\Debug\net5.0\ClassConcept.genruntimeconfig.cache
+C:\Users\YASİN\Desktop\Yazılım\PatikaDev\csharpPatika\console-programlama\ClassConcept\obj\Debug\net5.0\ref\ClassConcept.dll
